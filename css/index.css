@@ -1,0 +1,114 @@
+.container{
+    border: 0px solid black;
+}
+
+.row{
+    border: 0px solid red;
+}
+
+.col{
+    border: 0px solid green;
+}
+
+body{
+    background-color: gray;
+    
+}
+
+#header{
+    background-color: orange;
+    padding: 10px 0px 10px 10px;
+}
+
+#menu{
+    background-color: #2b72e3;
+    padding: 8px 0px;
+}
+
+#menu ul{
+    list-style: none;
+    margin: 0px;
+}
+
+#menu ul li{
+    display: inline-block;
+    margin-right: 20px;
+    padding: 5px
+}
+#menu ul li a{
+    color: aliceblue;
+    text-decoration: none
+    
+    
+}
+
+#menu ul li:hover{
+    background-color: black;
+    border-radius: 5px
+    
+    
+}
+
+#content{
+    background-color: white;
+}
+
+#sidebar{
+    background-color: #e3592b;
+}
+
+#sidebar ul{
+    list-style: none;
+}
+
+#footer{
+   background-color: orange;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "name": "Hitesh PAtre",
+        "age": 22,
+        "address": {
+            "country" : "India",
+            "State": "Chhattishgarh",
+            "District": "Bilaspur"
+        },
+        "fav_movie": "movie1"
+    },
+    {
+        "id" : 2,
+        "name": "Vivek Sogarwal",
+        "age": 22,
+        "address": {
+            "country" : "India",
+            "State": "Rajasthan",
+            "District": "Bharatpur"
+        },
+        "fav_movie": "movie2"
+    },
+    {
+        "id" : 2,
+        "name": "Pushpendra",
+        "age": 22,
+        "address": {
+            "country" : "India",
+            "State": "UP",
+            "District": "Noida"
+        },
+        "fav_movie": "movie3"
+    }
+]
